@@ -1,6 +1,9 @@
 <!DOCTYPE html >
  <html lang="en">
+     <html>
+     
     <head>
+      <title hortencia cisneros photography>/title>
       
     <meta charset="UTF-8">
     <meta name="author" content="hortencia cisneros">
@@ -11,14 +14,32 @@
      <meta name="viewport" content="width=device-width">
      <title>hortencia cisneros photography</title>
     <link rel="stylesheet" href="css/styles.css">
-    
-<html>
-<head>
-<title hortencia cisneros>/title>
-<h1>photography</h1>
-<
+    <link rel="stylesheet" href=https://use.fontawesome.com>
+   </head>
 
-<head>
-<body>
-<p>
+    <div>
+         <img src="welcome.png"/>
+    <div class="main content">
+    <div id= nav class="clear">
+      <div class= "logo">
+         <img src="img/stills/logows3" jpg alt="logows3jpg">
+       <body> 
+        <ul class="navbar">
+            <li><a href="home"></a>home</li>
+            <br>
+            <li><a href="travel">travel</a></li>
+            <br>
+            <li><a href="food">food</a></li>
+            <br>
+            <li><a href="stills">stills</a></li>
+            <br>
+            <li><a href="contact">contact</a></li>
+        </ul>
+      </div>
+
+
+
+</head>
+</body>
+
 
