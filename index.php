@@ -52,6 +52,10 @@
           
          
               <div id= class image-container clear>
+                 <div class="row">
+                    <div class="column">
+                       <img src="insert image here.jpg">
+                       
           <img src="/web/ DSC_0666 copy.jpg" alt= "owl broch">
           
           
