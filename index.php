@@ -3,10 +3,23 @@
 <!doctype html>
 <html lang="en">
 <head>
+   <body>
+   <meta charset="UTF-8">
+        <meta name="author" content="hortencia cisneros">
+        <meta name="keywords" content="website,photography">
+        <meta name="description" content="web design,website,photography">
+        <meta name="viewport" content="width=device-width">
+      
+        <link rel="stylesheet" href="css/stylesheet.css">
+      <link rel="stylesheet" href=https://use.fontawesome.com>
+	  
+      
+      <div>
+            <title>hortencia cisneros</title>
+	     
    
-    <body>
-     <title>hortencia cisneros photography</title>
-     <section>
+ 
+
         
      <div>
           <img src="welcome.png"/>
@@ -17,15 +30,7 @@
      </section>
     
     
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width">
-    <meta name="author" content="hortencia cisneros">
-    <meta name="keywords" content="website,photography">
-    <meta name="description" content="web design,website,photography">
-    
-        <link rel="stylesheet" href="css/stylesheet.css">
-      <link rel="stylesheet" href=https://use.fontawesome.com>
-         
+  
         <br>
         <div> 
          <p>move the mouse over a button inside the tabbed menu</p>
@@ -65,8 +70,7 @@
          
     
    
-   </head>
-  </body>
+     </head>
+   </body>
+        </html>
 
-
-</html>
