@@ -47,20 +47,21 @@
             <li><a href="stills">stills</a></li>
             <br>
             <li><a href="contact">contact</a></li>
-        </ul>
-      </div>
-       <div class="image-container float center">
-          <img src= "web/IMG_4053.jpg" alt=" tangalos IMG_4053.jpg" class="center">
-            </div>
-         
-              <div id= class image-container clear>
-                 <div class="row">
-                    <div class="column">
-                       <img src=".jpg">
-                       <h1> rounded images</h2>
-          <img src="/web/ DSC_0666 copy.jpg" alt= "owl broch">
+         </ul>
+     
+		 </div>
+      
           
-          
+                       <div id="about" class="container">
+			<h1>hortencia cisneros photography</h1>
+			<img src="img/food/PSX_20190405_173611.jpg" alt="veggie.jpg" class="center">
+		         <div class="bgimage PSX_20190405_173611.jpg"></div>
+			
+			  <div class="bg-text"> food, travel, stills</div> 
+           
+			<p> images goes here</p>
+			<img src="img/travel/shoes.jpg" alt="shoes.jpg" class="center">
+			<img src="img/travel/color.jpg" alt="color.jpg" class="float right">
         
                        
           
