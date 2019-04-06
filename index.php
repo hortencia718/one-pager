@@ -53,8 +53,8 @@
       
           
                        <div id="about" class="container">
-			<h1>hortencia cisneros photography</h1>
-			<img src="img/food/PSX_20190405_173611.jpg" alt="veggie.jpg" class="center">
+			<h2>hortencia cisneros photography</h2>
+			<img src="img/food/PSX_20190405_173611.jpg" alt="PSX_20190405_173611.jpg" class="center">
 		         <div class="bgimage PSX_20190405_173611.jpg"></div>
 			
 			  <div class="bg-text"> food, travel, stills</div> 
