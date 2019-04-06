@@ -16,7 +16,8 @@
       
       <div>
             <title>hortencia cisneros</title>
-	     
+	     <img src="img/strawwhite.jpg" alt="strawberry">
+	      
    
  
 
@@ -52,9 +53,11 @@
 		 </div>
       
           
-                       <div id="about" class="container">
+                       
 			<h2>hortencia cisneros photography</h2>
-			<img src="img/food/PSX_20190405_173611.jpg" alt="PSX_20190405_173611.jpg" class="center">
+			   <div id="about" class=" image container">  
+		          <img class="strawwhite.jpg src="img/"strawwhite.jpg" alt="strawberry">
+				   
 		         <div class="bgimage PSX_20190405_173611.jpg"></div>
 			
 			  <div class="bg-text"> food, travel, stills</div> 
