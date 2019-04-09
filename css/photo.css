@@ -1,0 +1,60 @@
+body { 
+	font-family: "veranda",veranda;
+	font-size: 1rem;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+body {
+  color: #E8108F;
+}
+
+h1 {
+  color: gray;
+}
+ 
+<style>
+div.a {
+  font-size: 15px;
+}
+
+div.b {
+  font-size: large;
+}
+
+div.c {
+  font-size: 150%;
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: gray;
+}
+
+h1 {
+  color: violet;
+  text-align: left;    
+}
+
+  }
+
+p {
+  font-family: verdana;
+  font-size: 30px;
+}
+</style>
+</head>
+<body>
+
+<h1>hortencia cisneros</h1>
+<h2>photography</h2>
+<h2>Food</h2>
+<h2>Travel</h2>
+<h2>Stills</h2>
+<h2>contact</h2>
+
+</body>
+</html>
