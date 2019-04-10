@@ -197,8 +197,8 @@ else if(answer === 'NO') {
 }
 else {
 	console.log('else answer', answer)
-	//console.log('Boolean(answer.length) answer.length answer', Boolean(answer.length)
-    // Bloolean(answer.length) answer.length
+	console.log('Boolean(answer.length) answer.length answer', Boolean(answer.length)
+     Bloolean(answer.length) answer.length
     if (answer) {
     	console.log("You wrote: ", answer);
     } else {
