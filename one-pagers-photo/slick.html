@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>slickslideshow</title>
+	<link rel="stylesheet" type="text/css" href="css/slick.css">
+	<link rel="stylesheet" type="text/css" href="css/slick-theme.css">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+<body>
+
+	<div id="mysildeshow">
+	  <div><img src="img/food/092124.jpg" alt="092124"></div>
+	  <div><img src="img/food/DSC_1117.jpg" alt="DSC_1117"></div>
+	  <div><img src="img/food/092540.jpg" alt="092540"></div>
+	  <div><img src="img/food/092611.jpg" alt="092611"></div>
+	  <div><img src="img/food/091527.jpg" alt="091527"></div>
+	  <div><img src="img/travel/travel093805.jpg" alt="travel093805"></div>
+	</div>
+	
+	<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+	<script type="text/javascript" src="js/slick.min.js"></script>
+	<script type="text/javascript">
+        $(document).ready(function(){
+            /*
+            $('.your-class').slick({
+	        setting-name: setting-value
+            });
+            */
+        $('#your-class').slick(
+        {
+       // $('#single class').slick({
+        	infinite: true,
+        	slidetoshow: 3,
+        	slidescroll: 3
+        }
+
+        );
+
+       
+     
+    });
+
+	</script>
+
+
+
+</body>
+</html>

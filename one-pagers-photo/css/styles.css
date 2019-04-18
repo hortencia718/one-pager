@@ -1,0 +1,57 @@
+body {
+	font-family: "helvetica neue ",veranda, sans-serif;
+	font-size: 1rem;
+	word-wrap: break-word; 
+    overflow-wrap: break-word
+}
+ h1,h2,h3 {
+    margin: 0;
+    padding: 0;
+}
+.container p {
+	color:#000;
+	color:red;
+}	
+p {
+	   color:#000;
+}
+img {
+	  display: block;
+	  width:
+}
+a{
+	text-decoration: none;
+}
+address {
+	font-style: normal;
+}
+.clear{
+	overflow: auto;
+}
+.content {
+	/*top right bottom left*/
+	margin: 0 25px 0 25px;
+	/*top bottom right/left*/
+	margin: 0 25px;
+}
+.backgroundiamge .container p {
+	color:#000;
+	font-size: 14px;
+}
+
+.backgroundiamge {
+	width: 100%;
+
+}
+
+.backgroundiamge .container img {
+	width: 300px;
+	margin: 0 auto;
+    color: #0000
+}
+@media (max-width: 720px){
+	.banner h1{
+		font-size: 32px;
+		transition: font 3s ease;
+	}
+}
